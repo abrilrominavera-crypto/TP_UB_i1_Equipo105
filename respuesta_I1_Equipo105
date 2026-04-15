@@ -12,3 +12,5 @@ b- Sí, si ALFA sube algo, los demás lo ven apenas actualicen sus propias carpe
 
 c- Sí, cuando BETA agrega un archivo y hace el push, los demás integrantes lo ven al actualizar sus repositorios.
 d- Nos comunicamos mediante el tablero de Projects de GitHub y los mensajes de los commits.
+
+e- La mejor forma de comunicarse dentro de GitHub es utilizando la solapa de Issues para discutir problemas y el Project Board para organizar las tareas pendientes.
