@@ -9,3 +9,6 @@ e: La mejor forma de comunicarse es mediante Issues y Projects.
 
 a- Sí, ALFA ve los datos siempre que use el comando git pull para actualizar su carpeta local.
 b- Sí, si ALFA sube algo, los demás lo ven apenas actualicen sus propias carpetas.
+
+c- Sí, cuando BETA agrega un archivo y hace el push, los demás integrantes lo ven al actualizar sus repositorios.
+d- Nos comunicamos mediante el tablero de Projects de GitHub y los mensajes de los commits.
