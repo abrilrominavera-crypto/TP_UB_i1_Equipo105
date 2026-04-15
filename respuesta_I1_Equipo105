@@ -6,3 +6,6 @@ c: Sí, si BETA agrega un archivo, los demás lo ven al actualizar.
 d: Nos comunicamos por el tablero de Projects de GitHub.
 
 e: La mejor forma de comunicarse es mediante Issues y Projects.
+
+a- Sí, ALFA ve los datos siempre que use el comando git pull para actualizar su carpeta local.
+b- Sí, si ALFA sube algo, los demás lo ven apenas actualicen sus propias carpetas.
