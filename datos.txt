@@ -1,2 +1,3 @@
 Equipo 105 - ALFA
 Abril Vera - IP: 192.168.0.1 - 21:00hs
+Tercer Integrante - IP: 10.0.0.5 - 22:00hs
